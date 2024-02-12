@@ -1,2 +1,2 @@
 # hello-again
-Sibling of hello world
+A peer of hello world.
